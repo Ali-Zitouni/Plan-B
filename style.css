@@ -1,0 +1,31 @@
+/* CSS files add styling rules to your content */
+
+body {
+background: #E8D2B8;
+  /* Fonts imported from Google fonts */
+  font-family: font-family: 'Oswald', sans-serif;;
+  margin: 2em;
+  <link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap" rel="stylesheet">
+
+}
+
+h1 {
+  font-style: italic;
+  color: #f7931a;
+  
+}
+
+p {
+  front-style : helvetica, sans-serif;
+  color: black;
+}
+
+
+
+.separator {
+  background: orange;
+  height: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
